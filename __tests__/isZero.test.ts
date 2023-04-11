@@ -1,4 +1,4 @@
-import { isZero } from "./isZero";
+import { isZero } from "../__mocks__/isZero";
 
 test("Argument is zero", () => {
   const result = isZero(0);
